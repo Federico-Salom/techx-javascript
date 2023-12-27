@@ -1,0 +1,38 @@
+.header {
+    background-color: rgb(177, 227, 236);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+}
+
+.header__images {
+    display: flex;
+    align-items: center;
+    height: 130px;
+}
+
+.images__logo {
+    height: 115px;
+    width: 115px;
+    margin: 0 0 0 30px;
+}
+
+.image__banner {
+    height: 115px;
+    width: 230px;
+}
+
+.nav__list {
+    list-style: none;
+}
+
+.list__link {
+    border: 1px solid black;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px 0px rgb(0, 0, 0);
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 7px;
+}

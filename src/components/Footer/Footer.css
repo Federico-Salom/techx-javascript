@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(177, 227, 236);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 105px;
+}
+
+.footer__link {
+    display: flex;
+    align-items: center;
+}
+
+.link__banner {
+    height: 100px;
+    width: 200px;
+}
